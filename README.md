@@ -1,5 +1,4 @@
 # Realtime_Face-Hand_detection
-# Real-Time Face and Hand Detection Web Application
 
 This project implements real-time face and hand detection using **MediaPipe** and **OpenCV**, integrated with a **Flask** web application for online streaming. The application detects faces and hands from webcam input and streams the output through a web browser interface.
 
